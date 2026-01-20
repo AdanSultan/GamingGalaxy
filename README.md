@@ -2,7 +2,7 @@
   <img src="img/banner.jpeg" alt="GamingGalaxy Banner" width="100%" />
 </p>
 
-<h1 align="center">🎮 GamingGalaxy</h1>
+<h1 align="center"> GamingGalaxy</h1>
 <p align="center">
   A futuristic, anime-inspired gaming portal with cinematic visuals, immersive UI, and responsive design.<br />
   Where gaming meets style.
@@ -21,26 +21,26 @@
 
 
 
-## 🚀 Features
+##  Features
 
-- 🎥 **Dynamic Hero Section**  
+-  **Dynamic Hero Section**  
   Seamlessly cycle through cinematic hero videos.
 
-- 🧩 **Vibrant Product Cards**  
+-  **Vibrant Product Cards**  
   Discover platforms like Radiant, ZIGMA, NEXUS, and AZUL, each with unique videos & descriptions.
 
-- 🌌 **Immersive Visuals**  
+-  **Immersive Visuals**  
   Dive into high-quality images, looping video previews, and anime-style themes.
 
-- 📱 **Responsive Design**  
+-  **Responsive Design**  
   Sleek, mobile-first layout that adapts to all screen sizes.
 
-- 📫 **Engaging Footer**  
+-  **Engaging Footer**  
   Includes newsletter signup, social links, and contact options.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```bash
 GamingGalaxy/
@@ -54,8 +54,4 @@ GamingGalaxy/
 
 ```
 
-## 📬 Contact
 
-If you'd like to get in touch, you can:
-- **Email me:** [adansultan794@gmail.com](mailto:adansultan794@gmail.com)
-- **Or click the social icons in the site's footer** (Instagram, LinkedIn ) to connect with me on your favorite platform!
